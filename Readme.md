@@ -23,4 +23,4 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='ScreenshotAmphi.png' title='ScreenShot' width='' alt='Video Walkthrough' />
+<img src='https://github.com/esosaphilip/Amphibians/blob/main/SceenshotAmphi.png' title='ScreenShot' width='' alt='Video Walkthrough' />
